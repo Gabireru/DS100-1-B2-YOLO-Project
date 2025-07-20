@@ -1,0 +1,8 @@
+train: #pathway in local machine 
+D:\Users\chanc\OneDrive\Desktop\CPE117-4_AI_Program\dataset\images\train
+
+val: #pathway in local machine
+C:\Users\chanc\OneDrive\Desktop\CPE117-4_AI_Program\dataset\images\val
+
+nc: 1  # Number of classification
+names: ["Apple", "Avocado", "Banana", "Carrot"]
