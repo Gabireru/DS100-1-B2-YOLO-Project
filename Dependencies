@@ -1,4 +1,4 @@
 Dataset is extracted from
-https://github.com/fruits-360
+https://github.com/fruits-360/fruits-360-100x100
 
 pip install torch ultralytics opencv-python numpy pandas matplotlib
