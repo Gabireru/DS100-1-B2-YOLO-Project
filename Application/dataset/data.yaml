@@ -1,8 +1,8 @@
 train: #pathway in local machine 
-D:\Users\chanc\OneDrive\Desktop\CPE117-4_AI_Program\dataset\images\train
+E:\JM Files\VS Code\DS100\DS100-1-B2-Project-main\Project\YOLOv8\Application\dataset\images\train
 
 val: #pathway in local machine
-C:\Users\chanc\OneDrive\Desktop\CPE117-4_AI_Program\dataset\images\val
+E:\JM Files\VS Code\DS100\DS100-1-B2-Project-main\Project\YOLOv8\Application\dataset\images\val
 
 nc: 1  # Number of classification
 names: ["Apple", "Avocado", "Banana", "Carrot"]
