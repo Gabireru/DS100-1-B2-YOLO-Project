@@ -1,0 +1,8 @@
+train: #pathway in local machine 
+E:\JM Files\VS Code\DS100\DS100-1-B2-Project-main\Project\dataset\images\train
+
+val: #pathway in local machine
+E:\JM Files\VS Code\DS100\DS100-1-B2-Project-main\Project\dataset\images\val
+
+nc: 1  # Number of classification
+names: ["Apple", "Avocado", "Banana", "Carrot"]
